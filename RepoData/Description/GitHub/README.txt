@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🤖️📖️ Android x64: The documentation source repository of the DeGoogled build for Android 5.0, a powerful, DeGoogled Android 5.0 (Lollipop) alternative installation
